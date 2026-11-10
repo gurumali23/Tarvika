@@ -1,0 +1,188 @@
+﻿TARVIKA COURSES — SIMPLE, POINT-BY-POINT GUIDE
+
+This guide explains the seven learning areas described on the TARVIKA website. The topics and projects below are examples. The exact syllabus, depth, tools, schedule, duration, fees, prerequisites, delivery mode, and availability can vary by offering. Please confirm current details with TARVIKA.
+
+1. DIGITAL MARKETING
+
+What it is:
+- Digital marketing is the way organizations share useful information and promote services or ideas online.
+- It combines understanding people, planning communication, choosing online channels, and checking whether the communication helped.
+
+What learners may explore:
+- Research who the intended audience is and what they need.
+- Define a communication goal and decide how success could be measured.
+- Choose suitable channels, such as search or social platforms, based on the audience and goal.
+- Plan useful content, messages, formats, and a publishing calendar.
+- Learn basic search and social media practices.
+- Read simple campaign data, compare results, and explain what the numbers can and cannot show.
+- Consider privacy, consent, accessibility, truthful claims, and trust when communicating.
+
+Possible practice projects:
+- Study the needs of an audience for a service or community.
+- Plan a small test comparing two message formats.
+- Write a campaign plan with measures and a clear report.
+
+Who may find it interesting:
+- People curious about communication, content, audience research, entrepreneurship, or online channels.
+- Prior marketing experience is not assumed unless a particular offering says otherwise.
+
+2. ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+
+What it is:
+- Artificial intelligence (AI) is a broad area of computing that makes systems perform tasks such as working with language, recognizing patterns, or supporting decisions.
+- Machine learning (ML) is one part of AI. It uses examples and data to build a model for a particular task.
+
+What learners may explore:
+- Understand basic AI and ML terms and common task types.
+- Prepare and examine data, including checking its quality and limitations.
+- Try introductory approaches to tasks such as sorting items into groups, making predictions, or working with language.
+- Compare a model with a simple baseline and use suitable measures to judge its results.
+- Look at mistakes and cases where a model does not work well.
+- Consider how a model fits into a larger process and where a person should review its output.
+- Discuss privacy, bias, safety, reliability, and responsible use.
+
+Possible practice projects:
+- Compare two simple models and explain their strengths and weaknesses.
+- Evaluate a language tool for a specific task, including its errors and limits.
+- Build a small demonstration where a person reviews the AI's suggestions.
+
+Who may find it interesting:
+- People curious about data, computing, pattern-finding, or how AI tools work.
+- The technical level and any preparation needed depend on the specific offering.
+
+3. AGRI TECH
+
+What it is:
+- Agri Tech means using technology and information to understand or support agriculture and food systems.
+- It considers the real needs of farmers and communities, not only the technology itself.
+
+What learners may explore:
+- Learn about agricultural and food-system challenges and their local context.
+- Understand how sensors and connected devices can collect information.
+- Check whether collected data is accurate, complete, and traceable to its source.
+- Use data to support decisions, while being clear about uncertainty.
+- Think about whether a tool fits people's daily work and is easy to access.
+- Consider sustainability and how to evaluate whether an idea is useful.
+
+Possible practice projects:
+- Review the quality of sample field data.
+- Sketch a simple tool that shares information about water use.
+- Map a service around farmers' needs and everyday tasks.
+
+Who may find it interesting:
+- People interested in agriculture, food, technology, data, sustainability, or community-focused design.
+- Field visits, access to farms, sensors, or other equipment are not guaranteed; confirm what a particular offering includes.
+
+4. SPACE TECHNOLOGY
+
+What it is:
+- Space technology includes the systems and information used for satellites, space missions, and observing Earth from space.
+- It connects engineering ideas with data, geography, communications, and responsible use.
+
+What learners may explore:
+- Learn the basic parts and goals of a space mission.
+- Understand what orbits are and what different satellites do.
+- Explore remote sensing: using satellite observations to learn about Earth.
+- Work with basic geospatial ideas, such as connecting data to places on a map.
+- Learn how signals, satellites, and ground stations work together.
+- Consider responsible and sustainable use of space and satellite information.
+
+Possible practice projects:
+- Compare Earth-observation examples and explain what each can show.
+- Prepare a simple study of a possible mission and its purpose.
+- Write a short idea for an application using satellite data.
+
+Who may find it interesting:
+- People curious about space, satellites, Earth science, maps, or technology.
+- Access to hardware, launch facilities, or real mission operations is not promised.
+
+5. CYBER SECURITY
+
+What it is:
+- Cyber security is the work of protecting computers, networks, accounts, and information from misuse or damage.
+- It includes prevention, careful setup, monitoring, and preparation for problems.
+
+What learners may explore:
+- Learn basic security and risk concepts.
+- Understand how operating systems and computer networks are used.
+- Protect accounts with good access practices.
+- Review secure settings and ways to protect data.
+- Learn what monitoring and incident preparation involve.
+- Consider privacy, security policies, and responsible reporting of problems.
+
+Possible practice projects:
+- Review the security settings of a deliberately prepared practice system.
+- Create a simple risk map for a small organization.
+- Take part in a simulated discussion about how to respond to a security incident.
+
+Who may find it interesting:
+- People curious about computers, networks, privacy, and protecting information.
+
+Safety rules:
+- Practice must stay within systems that you own or have clear permission to use.
+- Use test data and isolated practice environments.
+- Do not access, test, or change another person's device, account, or network without authorization.
+
+6. WEB DEVELOPMENT AND DEVOPS
+
+What it is:
+- Web development is the work of building websites and online applications.
+- DevOps is a set of practices that helps teams build, release, run, and maintain software reliably.
+
+What learners may explore:
+- Turn user needs into clear requirements that can be checked.
+- Build web pages with HTML and CSS, including layouts that adapt to phones and computers.
+- Add interactions and learn how websites communicate with APIs and data services.
+- Use version control to track changes and review code with others.
+- Learn the ideas behind software testing and automated build-and-release workflows.
+- Consider reliability, monitoring, maintenance, and security.
+
+Possible practice projects:
+- Build an accessible information website.
+- Create a small API and add checks to test it.
+- Plan a simple workflow for preparing and releasing a software update.
+
+Who may find it interesting:
+- People who want to understand how websites and software are made and maintained.
+- Specific programming experience, tools, and technical depth depend on the offering.
+
+Safety note:
+- Do not put passwords, private keys, or personal information in public code or repositories.
+- Any deployment or hosting work must use an approved environment and suitable access controls.
+
+7. DIGITAL FORENSICS
+
+What it is:
+- Digital forensics is the careful process of preserving, examining, and reporting information from digital devices or files.
+- The process must be trustworthy: people need to know what was examined, how it was handled, and what the findings can prove.
+
+What learners may explore:
+- Define the question being investigated and what is authorized.
+- Learn how to protect original evidence and check that it has not changed.
+- Keep a record of who handled evidence, when, and why. This is called a chain of custody.
+- Explore filesystems, file details, and timestamps while learning their limits.
+- Examine approved copies or training datasets in a structured way.
+- Write neutral reports that separate observations from guesses and explain uncertainty.
+
+Possible practice projects:
+- Create a timeline using a prepared training image.
+- Make an evidence integrity and handling log for a simulated case.
+- Write a clear technical report about a controlled exercise.
+
+Who may find it interesting:
+- People interested in digital evidence, incident response, security operations, compliance, or investigative methods.
+
+Safety rules:
+- Use only training material, devices you own, or material covered by explicit written permission and lawful authority.
+- Never examine another person's device, account, or data without permission.
+- A course exercise is not a legal investigation and does not qualify someone to testify as an expert.
+
+GENERAL INFORMATION ABOUT ALL SEVEN LEARNING AREAS
+
+- These are learning-area descriptions, not a guarantee of a fixed syllabus or cohort.
+- Topics, tools, project work, teaching depth, and sequence can change with the offering and available resources.
+- Ask TARVIKA to confirm current prerequisites, fees, schedule, duration, delivery mode, instructor, and availability before enrolling.
+- Registration or an enquiry does not guarantee admission or enrollment.
+- TARVIKA does not award university degrees.
+- A course does not guarantee a job, salary, internship, placement, certification, client work, or a particular result.
+- Follow the relevant safety, privacy, consent, and authorization rules during any learning or project activity.
